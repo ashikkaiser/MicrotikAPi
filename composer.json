@@ -1,5 +1,5 @@
 {
-  "name": "ashikkaiser/MicrotikAPi",
+  "name": "ashikkaiser/microtikapi",
   "type": "library",
   "description": "Modern Mikrotik RouterOS API PHP client for your applications (with Laravel support)",
   "keywords": [
